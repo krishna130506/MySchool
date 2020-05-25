@@ -1,0 +1,23 @@
+
+h1{
+    color: white;
+    background-color: black;
+}
+h2{
+    color: yellow   ;
+    background-color:cadetblue;
+}
+
+p,h1{
+    text-align: center;
+}
+.tags{
+    background-color: red;
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.photos{
+    text-align: center;
+       
+}
